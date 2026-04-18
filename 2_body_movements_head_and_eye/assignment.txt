@@ -1,0 +1,16 @@
+Record at least 20mins of your face video using a web-camera connected
+to your laptop, while you are playing a car racing/during game on
+your/other laptop. 
+
+
+
+a. Transcribe for the following activities
+a1. eye open versus eye closed
+a2. pupil position (left side, center, right side)
+a3. driving status (extremeFocus, Focus, Normal, Relaxed/bore, distracted)
+a4. head rotation (over the right shoulder, 45Degree Right, center,
+45Degree Left, over the left shoulder)
+a5. head front tilt (extreme back tilt, back tilt, straight front ahead,
+front tilt, extreme front tilt)
+a6. head side tilt (head top towards left AND neck towards right, straight,
+head top towards right AND neck towards left)
